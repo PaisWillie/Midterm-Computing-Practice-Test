@@ -1,6 +1,6 @@
 # Python Programming Practice #1
 
-## Computing Topics Include
+**Computing Topics Include:**
 * File I/O (Input/Output)
 * Lists
 * User input
