@@ -6,3 +6,5 @@
 * User input
 * Concatenation
 * String manipulation
+* Conditionals
+* Functions
