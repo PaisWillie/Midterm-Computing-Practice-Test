@@ -433,9 +433,6 @@ while x > 12:
 # TEST YOUR CODE HERE
 ```
 
-## True or False
----
-
 #### 16. True or False: In Python, a variable must be declared before it is assigned a value.
 
 
